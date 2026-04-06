@@ -1,0 +1,30 @@
+# Week 2 Testing Checklist
+## FOSSBilling Installation
+- [ ] Can access admin panel
+- [ ] Can access client area
+- [ ] Database connected properly
+- [ ] Email settings configured and tested
+## Product Configuration
+- [ ] All 4 VPS plans created
+- [ ] Pricing configured correctly
+- [ ] Product descriptions complete
+- [ ] Plans visible to customers
+## Payment Gateway
+- [ ] Stripe test mode configured
+- [ ] Can place test order
+- [ ] Can complete test payment
+- [ ] Order status updates correctly
+- [ ] Customer receives confirmation email
+## Customer Experience
+- [ ] Can register new account
+- [ ] Can browse products
+- [ ] Can add to cart
+- [ ] Can checkout
+- [ ] Can view order history
+- [ ] Can access invoices
+## Admin Functions
+- [ ] Can view orders
+- [ ] Can view customers
+- [ ] Can manually create order
+- [ ] Can issue refund (test)
+- [ ] Can send email to customer
